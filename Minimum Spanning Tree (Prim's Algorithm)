@@ -42,6 +42,8 @@ int main()
         visited[b]=1;
         cost[a][b]=cost[b][a]=1000; 
     }
+
+
     printf("\nminimum weight is %d",min_cost);
     return 0;
 }
