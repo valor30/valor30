@@ -8,13 +8,11 @@
 
 - 🔭 I’m currently working on **Javascript**
 
-- 🌱 I’m currently learning **AngularJS, Next.js**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **apratimrohan17@gmail.com**
-
-- ⚡ Fun fact **always looking for a coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
