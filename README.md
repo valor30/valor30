@@ -35,9 +35,10 @@
 
 <h3 align="left" width="400">Connect with me:</h3>
 <p align="left" width="400">
-<a href="https://linkedin.com/in/apratim mukherjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apratim mukherjee" height="30" width="40" /></a>
-<a href="https://fb.com/apratim mukherjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="apratim mukherjee" height="30" width="40" /></a>
-<a href="https://instagram.com/_valor_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_valor_30" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/apratim-mukherjee-3ba014204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apratim mukherjee" height="50" width="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=100025012216978" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="apratim mukherjee" height="50" width="50" /></a>
+<a href="https://www.instagram.com/_valor_30/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_valor_30" height="50" width="50" /></a>
+<a href="https://twitter.com/ApratimMukherj6?fbclid=IwAR05_LkD4IFtVX1yhu1DIFf9y4AAaVWfmKZ15wjvf0lQ5NTuCTme2ypEsUc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_valor_30" height="50" width="50" /></a>
 
 ### Visit the account for Recent Repositories
 # Joke for Developers
