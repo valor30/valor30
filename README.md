@@ -19,7 +19,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="60" height="60"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
- <img src="https://vetores.org/wp-content/uploads/django.png" alt="django" width="60" height="60"/>
+ <img src="https://www.skillmentors.in/assets/img/courses/flask.png" alt="flask" width="60" height="60"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="60" height="60"/>
 </p>
 
