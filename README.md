@@ -24,18 +24,6 @@
 </p>
 
 
-
-
-### GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=valor30&theme=dark&border_radius=4.8)](https://git.io/streak-stats)
-
-![Apratim's GitHub stats](https://github-readme-stats.vercel.app/api?username=valor30&show_icons=true&theme=radical)
-
-### Programming Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valor30&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3 align="left" width="400">Connect with me:</h3>
 <p align="left" width="400">
 <a href="www.linkedin.com/in/apratim-mukherjee-3ba014204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apratim mukherjee" height="50" width="50" /></a>
@@ -43,14 +31,7 @@
 <a href="https://www.instagram.com/_valor_30/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_valor_30" height="50" width="50" /></a>
 <a href="https://twitter.com/ApratimMukherj6?fbclid=IwAR05_LkD4IFtVX1yhu1DIFf9y4AAaVWfmKZ15wjvf0lQ5NTuCTme2ypEsUc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_valor_30" height="50" width="50" /></a>
 
-### Visit the account for Recent Repositories
-# Joke for Developers
-A funny joke about developers.
-**Q: Why did the developer go broke?**
-Because he used up all his...
 
-### Punchline
-**cache!**
 
  
         
